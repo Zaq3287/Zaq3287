@@ -1,16 +1,46 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Zaq3287/Zaq3287** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# `$ whoami > zaq3287`
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zaq3287&label=views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://img.shields.io/github/followers/zaq3287?label=Followers&style=flat&color=333333" alt="Followers" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/zaq3287/TokoKomputerApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zaq3287&repo=TokoKomputerApp&theme=tokyonight&border_color=2e3440&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" width="48%" />
+  </a>
+  <a href="https://github.com/zaq3287/TokoKomputerOnline">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zaq3287&repo=TokoKomputerOnline&theme=tokyonight&border_color=2e3440&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" width="48%" />
+  </a>
+</div>
+
+<br />
+
+---
+
+### 🐍 Watch the snake eat my contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zaq3287/zaq3287/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zaq3287/zaq3287/output/github-snake.svg">
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/zaq3287/zaq3287/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+---
+
+### 🛠 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=php,go,ts,react,wordpress,docker,nginx,mysql,linux,git)](https://skillicons.dev)
+
+<!-- Additional framework pills -->
+<p align="center">
+  <img src="https://img.shields.io/badge/WEBRTC-000000?style=for-the-badge&logo=webrtc&logoColor=white" />
+  <img src="https://img.shields.io/badge/EXPO-000020?style=for-the-badge&logo=expo&logoColor=white" />
+</p>
