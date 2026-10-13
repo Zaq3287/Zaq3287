@@ -1,6 +1,11 @@
 <div align="center">
 
-# `$ whoami > zaq3287`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=3FB950&random=false&width=640&lines=%24+whoami+%3E+Zaq3287;Building+resilient+backends+in+Go+%26+.NET;Full-Stack+Web+%26+System+Integration;Exploring+automation+%26+developer+tooling)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=decolua&style=flat-square&color=0D1117&label=Profile+views" alt="views" />
+<img src="https://img.shields.io/github/followers/decolua?style=flat-square&color=0D1117&label=Followers" alt="followers" />
+
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zaq3287&label=views&color=0e75b6&style=flat" alt="Views" />
