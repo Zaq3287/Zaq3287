@@ -51,9 +51,3 @@
     <img src="https://skillicons.dev/icons?i=html,css,sass&theme=dark" alt="Frontend and Styling" />
   </a>
 </p>
-
-<!-- Additional framework pills -->
-<p align="center">
-  <img src="https://img.shields.io/badge/WEBRTC-000000?style=for-the-badge&logo=webrtc&logoColor=white" />
-  <img src="https://img.shields.io/badge/EXPO-000020?style=for-the-badge&logo=expo&logoColor=white" />
-</p>
